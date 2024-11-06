@@ -244,16 +244,18 @@ let arry = [ 1,2,3,4,5,6,7,3013,4505,3,50];
 
 // searching methods using find methiods
 
-let find = [ 1 ,2,4,5,6,7,8,9,11];
+// let find = [ 1 ,2,4,5,6,7,8,9,11];
 
-let find1 = find.find(function(n ,index){
- return  n> 10;
-
-
-})
-
-console.log(find1);
+// let find1 = find.find(function(n ,index){
+//  return  n> 10;
 
 
+// })
+
+// console.log(find1);
 
 
+
+
+
+console.log("hello world");

@@ -139,3 +139,48 @@ Code Performance:
 Write a function that benchmarks the performance of multiple implementations of the same algorithm.
 Optimize a recursive function to avoid exceeding the maximum call stack.
 Profile a large JavaScript application and identify bottlenecks.
+
+
+
+Sure, here are 20 array problems without solutions. These problems are suitable for practicing both JavaScript and Python.
+
+Problem 1: Find the Maximum Number in an Array
+Given an array of numbers, find the maximum value.
+Problem 2: Reverse an Array
+Reverse the elements in a given array.
+Problem 3: Find the Second Largest Number in an Array
+Find the second largest unique number in an array.
+Problem 4: Check for Duplicate Elements
+Determine if an array contains any duplicates.
+Problem 5: Remove Duplicates from an Array
+Remove all duplicate values from an array, keeping only unique elements.
+Problem 6: Move Zeros to End
+Move all zeros in an array to the end while maintaining the order of non-zero elements.
+Problem 7: Rotate Array by K Steps
+Rotate an array to the right by k steps.
+Problem 8: Find the Intersection of Two Arrays
+Find the common elements between two arrays.
+Problem 9: Merge Two Sorted Arrays
+Merge two sorted arrays into one sorted array.
+Problem 10: Find Missing Number in an Array
+Find the missing number in a sequence of integers from 1 to n.
+Problem 11: Find the Index of a Target Element in a Sorted Array
+Implement binary search to find the index of a target element in a sorted array.
+Problem 12: Find Pairs with a Specific Sum
+Find all pairs of integers in an array whose sum equals a given target.
+Problem 13: Find the First Unique Element
+Find the first non-repeating element in an array.
+Problem 14: Remove a Specific Element from an Array
+Remove all instances of a given element from an array.
+Problem 15: Check if Array is Monotonic
+Determine if an array is either entirely non-increasing or non-decreasing.
+Problem 16: Find the Product of All Elements Except Self
+Return an array such that each element is the product of all elements in the array except itself.
+Problem 17: Count Occurrences of Each Element
+Count the occurrences of each element in an array and store the result in a dictionary.
+Problem 18: Check if Two Arrays are Equal
+Determine if two arrays contain the same elements with the same frequencies.
+Problem 19: Find the Longest Increasing Subsequence
+Find the length of the longest increasing subsequence in an array.
+Problem 20: Find the Maximum Subarray Sum (Kadane's Algorithm)
+...........................................................................more probelm have......................
