@@ -1,0 +1,141 @@
+Basic Level:
+Variables and Data Types:
+
+1.Create variables using let, const, and var.
+2.Create a function that returns the data type of a given variable.
+3.Write a function to swap two numbers without using a third variable.
+4.Check if a variable is undefined, null, or NaN.
+5.Compare two strings for equality without case sensitivity.
+6.Convert a string to a number and vice versa.
+Basic Operators:
+
+Write a function to add, subtract, multiply, and divide two numbers.
+Write a function that calculates the remainder of two numbers.
+Write a function to raise a number to a power without using Math.pow().
+Find the maximum and minimum of three numbers.
+Conditional Statements:
+
+Write a function that checks whether a number is even or odd.
+Write a program to check if a year is a leap year.⁭
+Implement a simple calculator using if-else or switch-case.
+Write a function that returns the grade of a student based on their score.
+Loops:
+
+Print all even numbers from 1 to 100.
+Print the first 20 Fibonacci numbers.
+Write a program to calculate the factorial of a number using both for and while loops.
+Print a multiplication table for numbers 1 to 10.
+Functions:
+
+Write a function that takes two numbers and returns their sum.
+Write a recursive function to compute the factorial of a number.
+Write a function to check if a number is prime.
+Write a function to return the largest number from an array.
+Strings:
+
+Reverse a string without using the built-in reverse() method.
+Count the number of vowels in a string.
+Check if a string is a palindrome.
+Write a function to capitalize the first letter of each word in a sentence.
+Write a function to remove all spaces from a string.
+Intermediate Level:
+Arrays:
+
+Find the sum of all elements in an array.
+Merge two sorted arrays into one sorted array.
+Remove duplicate elements from an array.
+Find the intersection of two arrays.
+Rotate an array k times to the right.
+Objects:
+
+Create an object to represent a person (name, age, gender). Write a method to display their info.
+Write a function to check if an object is empty.
+Compare two objects to see if they have the same properties and values.
+Convert an object into an array of key-value pairs.
+Higher-order Functions:
+
+Write a function that filters an array using a predicate function.
+Use map() to convert an array of strings to uppercase.
+Use reduce() to calculate the sum of an array.
+Use filter() to return only numbers greater than a given value.
+Error Handling:
+
+Create a function that throws an error when a condition is not met.
+Handle potential errors using try...catch.
+Write a custom error message for an invalid function argument.
+Date and Time:
+
+Write a function to display the current date and time.
+Write a function that takes two dates and returns the difference in days between them.
+Format a date as YYYY-MM-DD.
+Check if a given date is a weekend.
+Regular Expressions:
+
+Write a function to validate an email address using regex.
+Find all occurrences of a word in a string.
+Replace all whitespace in a string with a hyphen using regex.
+Extract all numbers from a string.
+Advanced Level:
+Closures:
+
+Write a function that returns another function to increment a counter.
+Create a simple module pattern using closures.
+Implement memoization for a function using closures.
+Asynchronous JavaScript:
+
+Write a function that returns a promise which resolves after a delay.
+Use async/await to handle asynchronous operations.
+Fetch data from a public API using fetch() and handle the response.
+Implement a function to retry an operation up to n times if it fails.
+Prototypes and Inheritance:
+
+Create a simple inheritance chain using prototype.
+Implement inheritance using class syntax.
+Write a class for a basic Car object with methods like start() and stop().
+Override a method in a subclass.
+Functional Programming:
+
+Write a function that curries another function.
+Implement a function composition.
+Write a higher-order function that logs the execution time of another function.
+Data Structures:
+
+Implement a stack using arrays.
+Implement a queue using objects.
+Create a linked list and implement insert, delete, and search operations.
+Implement a binary search tree and write methods for insert and traverse.
+Algorithms:
+
+Implement binary search on a sorted array.
+Write a function to sort an array using quicksort.
+Implement a depth-first search (DFS) on a graph.
+Write a function to find the shortest path in a grid using breadth-first search (BFS).
+Advanced Patterns:
+
+Implement a debounce function.
+Write a throttle function.
+Implement the Observer pattern.
+Implement the Singleton pattern.
+Expert Level:
+Concurrency:
+
+Implement a job scheduler using promises.
+Write a function that limits the number of concurrent API requests.
+Create an event loop simulation in JavaScript.
+Advanced Algorithms:
+
+Write an algorithm to solve the knapsack problem.
+Implement a solution for finding the longest common subsequence between two strings.
+Solve the traveling salesman problem using dynamic programming.
+Implement Dijkstra’s algorithm for shortest path.
+Design Patterns:
+
+Implement the Factory pattern.
+Write a Proxy that logs all function calls.
+Implement the Decorator pattern to extend a function’s behavior.
+Write a Chain of Responsibility pattern for handling multiple handlers.
+Code Performance:
+
+Write a function that benchmarks the performance of multiple implementations of the same algorithm.
+Optimize a recursive function to avoid exceeding the maximum call stack.
+Profile a large JavaScript application and identify bottlenecks.
