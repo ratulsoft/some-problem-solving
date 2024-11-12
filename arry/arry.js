@@ -255,7 +255,3 @@ let arry = [ 1,2,3,4,5,6,7,3013,4505,3,50];
 // console.log(find1);
 
 
-
-
-
-console.log("hello world");
