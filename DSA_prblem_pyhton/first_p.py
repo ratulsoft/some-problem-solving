@@ -5,4 +5,3 @@
 # //                       remain ad it is,where 0<k<n-2.condition:you cannnot delete (overwite any items).any item and arrangement of dada before and after kth index 
 # // ..                    should be same as previous
 
-
